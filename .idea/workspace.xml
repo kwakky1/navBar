@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a0457cd6-b489-4ea0-8c28-24a0573af5ca" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1m2LMisbQaKWlo8HGvdlgpoeiYz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs.jest.jest_package" value="" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugType" uri="http://localhost:63342/responsiveNavBar/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html" type="JavascriptDebugType" nameIsGenerated="true" uri="http://localhost:63342/responsiveNavBar/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a0457cd6-b489-4ea0-8c28-24a0573af5ca" name="Default Changelist" comment="" />
+      <created>1608686693110</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608686693110</updated>
+      <workItem from="1608686694266" duration="6125000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1816" y="215" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1608687691924">
+      <screen x="-2560" y="-155" width="2560" height="1417" />
+    </state>
+    <state x="-1816" y="215" key="#com.intellij.execution.impl.EditConfigurationsDialog/-2560.-155.2560.1417/0.23.1792.1097@-2560.-155.2560.1417" timestamp="1608687691924" />
+    <state width="1259" height="409" key="GridCell.Tab.0.bottom" timestamp="1608688932432">
+      <screen x="-2560" y="-155" width="2560" height="1417" />
+    </state>
+    <state width="1259" height="409" key="GridCell.Tab.0.bottom/-2560.-155.2560.1417/0.23.1792.1097@-2560.-155.2560.1417" timestamp="1608688932432" />
+    <state width="1259" height="409" key="GridCell.Tab.0.center" timestamp="1608688932431">
+      <screen x="-2560" y="-155" width="2560" height="1417" />
+    </state>
+    <state width="1259" height="409" key="GridCell.Tab.0.center/-2560.-155.2560.1417/0.23.1792.1097@-2560.-155.2560.1417" timestamp="1608688932431" />
+    <state width="1259" height="409" key="GridCell.Tab.0.left" timestamp="1608688932431">
+      <screen x="-2560" y="-155" width="2560" height="1417" />
+    </state>
+    <state width="1259" height="409" key="GridCell.Tab.0.left/-2560.-155.2560.1417/0.23.1792.1097@-2560.-155.2560.1417" timestamp="1608688932431" />
+    <state width="1259" height="409" key="GridCell.Tab.0.right" timestamp="1608688932431">
+      <screen x="-2560" y="-155" width="2560" height="1417" />
+    </state>
+    <state width="1259" height="409" key="GridCell.Tab.0.right/-2560.-155.2560.1417/0.23.1792.1097@-2560.-155.2560.1417" timestamp="1608688932431" />
+    <state width="1259" height="409" key="GridCell.Tab.1.bottom" timestamp="1608688932433">
+      <screen x="-2560" y="-155" width="2560" height="1417" />
+    </state>
+    <state width="1259" height="409" key="GridCell.Tab.1.bottom/-2560.-155.2560.1417/0.23.1792.1097@-2560.-155.2560.1417" timestamp="1608688932433" />
+    <state width="1259" height="409" key="GridCell.Tab.1.center" timestamp="1608688932432">
+      <screen x="-2560" y="-155" width="2560" height="1417" />
+    </state>
+    <state width="1259" height="409" key="GridCell.Tab.1.center/-2560.-155.2560.1417/0.23.1792.1097@-2560.-155.2560.1417" timestamp="1608688932432" />
+    <state width="1259" height="409" key="GridCell.Tab.1.left" timestamp="1608688932432">
+      <screen x="-2560" y="-155" width="2560" height="1417" />
+    </state>
+    <state width="1259" height="409" key="GridCell.Tab.1.left/-2560.-155.2560.1417/0.23.1792.1097@-2560.-155.2560.1417" timestamp="1608688932432" />
+    <state width="1259" height="409" key="GridCell.Tab.1.right" timestamp="1608688932432">
+      <screen x="-2560" y="-155" width="2560" height="1417" />
+    </state>
+    <state width="1259" height="409" key="GridCell.Tab.1.right/-2560.-155.2560.1417/0.23.1792.1097@-2560.-155.2560.1417" timestamp="1608688932432" />
+    <state x="-1615" y="257" key="run.anything.popup" timestamp="1608688897045">
+      <screen x="-2560" y="-155" width="2560" height="1417" />
+    </state>
+    <state x="-1615" y="257" key="run.anything.popup/-2560.-155.2560.1417/0.23.1792.1097@-2560.-155.2560.1417" timestamp="1608688897045" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/responsiveNavBar$index_html.dat" NAME="index.html Coverage Results" MODIFIED="1608689667369" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="WipCoverageRunner" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
